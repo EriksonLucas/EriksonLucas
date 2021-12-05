@@ -35,4 +35,4 @@
 
 [![Linkedin: Lucas Erikson](https://img.shields.io/badge/-LucasErikson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-erikson-b90274205/)](https://www.linkedin.com/in/lucas-erikson-b90274205/)
 [![Gmail Badge](https://img.shields.io/badge/-erikson.psy14@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikson.psy14@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/EriksonLucas)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/EriksonLucas?label=follow&style=social)](https://github.com/EriksonLucas)
